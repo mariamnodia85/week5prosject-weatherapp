@@ -1,0 +1,95 @@
+body {
+  background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+}
+
+button {
+  color: 150e90;
+  cursor: pointer;
+}
+
+.card-body {
+  color: #7b1fa2;
+}
+
+.card-title {
+  font-weight: bold;
+}
+footer {
+  text-align: center;
+  padding: 30px;
+  color: #150e90;
+  font-weight: lighter;
+}
+
+.formLocation {
+  box-sizing: border-box;
+  width: 600px;
+  padding: 8px;
+  border-color: #150e90;
+}
+
+header {
+  color: #150e90;
+  font-family: "Redressed", cursive;
+  padding: 10px 20px;
+  font-size: 4pc;
+  display: block;
+}
+
+h1 {
+  color: #150e90;
+  padding: 20px 0px 20px 0px;
+  font-size: 4pc;
+  margin-left: 0;
+  font-family: "Redressed", cursive;
+  padding: 10px 20px;
+}
+
+h2 {
+  color: #944646;
+  font-size: 6pc;
+  margin-left: 0;
+  font-family: "Redressed", cursive;
+  padding: 10px 20px;
+}
+
+h3 {
+  color: #4b4694;
+  font-size: 2pc;
+  margin-left: 0;
+  font-family: "Redressed", cursive;
+  padding: 10px 20px;
+}
+
+#humidityAndWind {
+  color: #4b4694;
+  font-size: 2pc;
+  margin-left: 0;
+  font-family: "Redressed", cursive;
+  padding: 10px 20px;
+}
+
+img {
+  width: 200px;
+  margin-left: 180px;
+}
+
+.plus {
+  color: red;
+}
+
+.minus {
+  color: blue;
+}
+
+.row {
+  padding: 10px 20px;
+}
+
+#farhetId {
+  color: #e62e4e;
+}
+
+#celsiusId {
+  color: black;
+}
